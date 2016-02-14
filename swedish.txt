@@ -5,56 +5,55 @@ flickor;girls
 en kvinna;a woman
 kvinnor;women
 en man;a man
-män;men
+man;men
 och;and
 vatten;water
-bröd;bread
-ett äpple;a apple
+brod;bread
+ett apple;a apple
 pojkar;boys
-en tindning;a newspaper
-läser;reading
+laser;reading
 ris;rice
-mjölk;milk
-en smörgås;a sandwich
+mjolk;milk
+en smorgas;a sandwich
 ett barn;a child
 spela;play
-hjälpa;help
+hjalpa;help
 mannen;the man
 kvinnan;the woman
 pojken;the boy
 flickan;the girl
 pojkar;boys
 flickor;girls
-läser;read
+laser;read
 en tidning;newspaper
 ett barn;a child
 barnet;the child
 ris;rice
-en smörgås;a sandwich
+en smorgas;a sandwich
 ett brev;a letter
 en meny;a menu
 en bok;a book
-Tack så mycket;thank you very much
-hej då;goodbye
+tack sa mycket;thank you very much
+hej da;goodbye
 ja och nej;yes and no
 god morgon;good morning
-välkommen;welcome
-ursäkta;I'm sorry
+valkommen;welcome
+ursakta;I'm sorry
 god natt;good night
-nej, snälla;no, please
-varsågod;you're welcome
-ja, hålla;yes, hello
-Jag tallar inte svenska;I don't speak swedish
+nej, snalla;no, please
+varsagod;you're welcome
+ja, halla;yes, hello
+jag talar inte svenska;I don't speak swedish
 jag tycker om en flicka;I like a girl
-Jag älskar en kvinna;I love a woman
+jag alskar en kvinna;I love a woman
 mannen talar engelska;the man speaks english
 hon talar inte engelska;she doesn't speak english
 en fish;a fish
 ett vin;a wine
 en apelsin;an orange
 kaffe;coffee
-ett ägg;an egg
-en dryck;drink
+ett agg;an egg
+en dryck;a drink
 middag;dinner
 kyckling;chicken
 har;has
@@ -68,17 +67,17 @@ en citron;a lemon
 salt;salt
 en soppa;a soup
 en jordgubbe;a strawberry
-nötkott;beef
-en öl;a beer
+notkott;beef
+en ol;a beer
 en tomat;a tomato
 peppar;pepper
-ett kött;a meet
+ett kott;a meet
 juice;juice
 vegetarian;vegetarian
 te;tea
-en måltid;a meal
+en maltid;a meal
 olja;oil
-flaskkött;pork
+flaskkott;pork
 glass;ice cream
 en tallrik;a plate
 ett glas;a glass
@@ -87,6 +86,6 @@ en kopp;a cup
 en gaffel;a fork
 en kniv;a knife
 en sked;a spoon
-äpplet;the apple
+applet;the apple
 en kock;a cook
 koeken;the cook
