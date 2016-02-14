@@ -46,7 +46,7 @@ varsågod;you're welcome
 ja, hålla;yes, hello
 Jag tallar inte svenska;I don't speak swedish
 jag tycker om en flicka;I like a girl
-Jag älskar en kvinna; J love a woman
+Jag älskar en kvinna;I love a woman
 mannen talar engelska;the man speaks english
 hon talar inte engelska;she doesn't speak english
 en fish;a fish

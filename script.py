@@ -1,6 +1,6 @@
 import sys
 import csv
-
+import os
 
 # @TODO: Add random function, so the input is not always the same
 
@@ -25,6 +25,7 @@ def QuestionMe(dictionary):
 
 def main():
     dictionary = {}
+    os.chdir(os.path.dirname(os.path.abspath(__file__)))
     TestFirstColumn(str(sys.argv[1]), dictionary)
 
 
