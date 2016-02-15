@@ -5,55 +5,55 @@ flickor;girls
 en kvinna;a woman
 kvinnor;women
 en man;a man
-man;men
+män;men
 och;and
 vatten;water
-brod;bread
-ett apple;a apple
+bröd;bread
+ett äpple;a apple
 pojkar;boys
-laser;reading
+en tindning;a newspaper
+läser;reading
 ris;rice
-mjolk;milk
-en smorgas;a sandwich
+mjölk;milk
+en smörgås;a sandwich
 ett barn;a child
 spela;play
-hjalpa;help
+hjälpa;help
 mannen;the man
 kvinnan;the woman
 pojken;the boy
 flickan;the girl
 pojkar;boys
 flickor;girls
-laser;read
+läser;read
 en tidning;newspaper
 ett barn;a child
 barnet;the child
-ris;rice
 en smorgas;a sandwich
 ett brev;a letter
 en meny;a menu
 en bok;a book
-tack sa mycket;thank you very much
-hej da;goodbye
+tack så mycket;thank you very much
+hej då;goodbye
 ja och nej;yes and no
 god morgon;good morning
-valkommen;welcome
-ursakta;I'm sorry
+välkommen;welcome
+ursäkta;I'm sorry
 god natt;good night
-nej, snalla;no, please
-varsagod;you're welcome
-ja, halla;yes, hello
-jag talar inte svenska;I don't speak swedish
+nej, snälla;no, please
+varsågod;you're welcome
+ja, hålla;yes, hello
+jag tallar inte svenska;I don't speak swedish
 jag tycker om en flicka;I like a girl
-jag alskar en kvinna;I love a woman
+Jag älskar en kvinna
 mannen talar engelska;the man speaks english
 hon talar inte engelska;she doesn't speak english
-en fish;a fish
+en fisk;a fish
 ett vin;a wine
 en apelsin;an orange
 kaffe;coffee
-ett agg;an egg
-en dryck;a drink
+ett ägg;an egg
+en dryck;drink
 middag;dinner
 kyckling;chicken
 har;has
@@ -67,17 +67,17 @@ en citron;a lemon
 salt;salt
 en soppa;a soup
 en jordgubbe;a strawberry
-notkott;beef
-en ol;a beer
+nötkott;beef
+en öl;a beer
 en tomat;a tomato
 peppar;pepper
-ett kott;a meet
+ett kött;a meet
 juice;juice
 vegetarian;vegetarian
 te;tea
-en maltid;a meal
+en måltid;a meal
 olja;oil
-flaskkott;pork
+flaskkött;pork
 glass;ice cream
 en tallrik;a plate
 ett glas;a glass
@@ -86,6 +86,6 @@ en kopp;a cup
 en gaffel;a fork
 en kniv;a knife
 en sked;a spoon
-applet;the apple
+äpplet;the apple
 en kock;a cook
 koeken;the cook

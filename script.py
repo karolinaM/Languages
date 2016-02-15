@@ -23,7 +23,7 @@ def QuestionMe(dictionary):
     again = {}
     for word in dictionary.keys():
         checkThis = raw_input(str(word + ": "))
-        print str(word + ": " + dictionary[word] + " --> " + str(checkThis==dictionary[word]))
+        print str(word + ": " + dictionary[word] + " --> " + str(checkThis.lower()==dictionary[word].lower()))
         if checkThis.lower() != dictionary[word].lower():
             again[word] = dictionary[word]
     print "End of dictionary [" + str(len(again)) + " / " + str(len(dictionary)) + "]"
@@ -32,7 +32,9 @@ def QuestionMe(dictionary):
 def main():
     dictionary = {}
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
-    TestFirstColumn(str(sys.argv[1]), dictionary)
+    while True:
+        TestFirstColumn(str(sys.argv[1]), dictionary)
+        print "Full dictionary starts again"
 
 
 if __name__ == '__main__':
